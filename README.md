@@ -16,4 +16,4 @@ It includes table definitions and sample data population scripts, focusing on a 
 
 ## How to Use
 1. Clone the repository:
-   ```download the code 
+
